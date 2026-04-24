@@ -1,10 +1,24 @@
 # 📊 Procurement KPI Analysis Dashboard  
 
-## 🚀 Project Overview  
-This dashboard analyzes procurement performance to help businesses optimize **cost, quality, and delivery efficiency**.  
-It supports data-driven decision-making by providing both **high-level overview** and **supplier-level insights**.
+📊 Dataset Overview
+
+This dataset contains 777 procurement transaction records capturing purchase order activities across multiple suppliers and categories.
+
+It includes key information such as order dates, delivery dates, supplier details, item categories, pricing, quantities, defective units, and compliance status, enabling analysis of procurement performance and efficiency.
+
+The dataset supports evaluation of spending behavior, supplier reliability, delivery performance, and quality issues, which are critical factors in optimizing procurement operations.
 
 ---
+❓ Problem Statement
+
+This project aims to answer the following key business questions:
+
+- How has procurement spending changed over time?
+- Which suppliers and categories contribute the most to total spend?
+- How do suppliers perform in terms of lead time and delivery efficiency?
+- Where are quality issues occurring, particularly in terms of defective units?
+- Which suppliers provide the best balance between cost, quality, and delivery performance?
+
 
 ## 🧰 Tech Stack  
 
